@@ -1,8 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/f4/ff/ac/f4ffac2fd6d0d460e6465b949dc02090.jpg" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/564x/99/46/8b/99468b510abeb36be15d19b1fd28a5e6.jpg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Forhad Ahmed</h1>
 <h3 align="center">I'm a passionate Web Designer.</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -51,7 +50,7 @@
 <p align="left">
   <br/>
   <a href="https://github.com/Forhad-Ahmad/github-readme-stats"><img alt="Forhad-Ahmad Github Stats" src="https://github-readme-stats.vercel.app/api?username=Forhad-Ahmad&show_icons=true&count_private=true&theme=nord&hide_border=true&stroke=7b7a7a&bg_color=263238" /></a>
-  <a href="https://github.com/Forhad-Ahmad/github-readme-stats"><img alt="Forhad-Ahmad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Ahmad&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=263238" /></a>
+  <a href="https://github.com/Forhad-Ahmad/github-readme-stats"><img alt="Forhad-Ahmad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Ahmad&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=263238"/> </a>
   <br/>
   </p>
 
